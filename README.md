@@ -8,4 +8,5 @@ Users should only see todo lists they have created
 Style should change if an item has comleted
 The page shouldnt refresh when an user adds a new item
 
-![Web capture_30-8-2022_11441_localhost](https://user-images.githubusercontent.com/78632562/187366682-6f91d6ae-8ebf-49b0-9acc-4de8d01fce4f.jpeg)
+![Web capture_30-8-2022_12415_localhost](https://user-images.githubusercontent.com/78632562/187366822-a25df5fc-111e-4021-8cc1-fb60e9444af1.jpeg)
+
